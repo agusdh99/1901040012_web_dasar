@@ -1,0 +1,20 @@
+body{
+    background-color:#eaeaea;
+    background-image: url(../image/Hipelmas.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: auto;
+    padding: auto;
+}
+.navbar{
+    margin: 0 10%;
+    width: 80%;
+    height: 50px;
+    background-color: rgb(5, 0, 0);
+    color: gray;
+}
+
+.header{
+    margin: 0 10%;
+    padding: 0 10%;
+}
