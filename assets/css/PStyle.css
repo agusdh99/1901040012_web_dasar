@@ -10,7 +10,7 @@ body{
     background-color: rgb(4, 0, 255);
     overflow: hidden;
 }
-.topbar a{
+.topbar marquee{
     float: right;
     color: whitesmoke;
     text-align: center;
