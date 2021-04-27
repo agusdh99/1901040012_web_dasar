@@ -1,0 +1,8 @@
+body{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-image: url(../image/sw.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
